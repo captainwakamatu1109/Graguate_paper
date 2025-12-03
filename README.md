@@ -6,5 +6,5 @@
 
 ref. <https://x.com/ran350jp/status/1864323767624978860?s=20>
 
-- [ ] githubとlatexをどうにかして繋げる
+- [×] githubとlatexをどうにかして繋げる
 - [ ] MITライセンスについて調べる
